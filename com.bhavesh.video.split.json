@@ -1,5 +1,5 @@
 {
     "cv" : "1.0.0",
-    "sm" : false,
+    "sm" : true,
     "lg" : false
 }
